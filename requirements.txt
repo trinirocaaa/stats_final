@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+PyPDF2
+kagglehub
+regex
+pytesseract
+Pillow
+torch
+torchvision
+matplotlib
+reportlab
+pdf2image
